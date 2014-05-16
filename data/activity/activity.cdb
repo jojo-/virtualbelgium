@@ -1,0 +1,16 @@
+# This codebook is related to the purpose of the trip ('activity')
+# Note that no activity is encoded by X
+# CODE CODENUM DESCRIPTION
+d;1;deposer / reprendre qq
+m;2;aller a la maison
+v;3;visite travail
+t;4;travail
+e;5;ecole
+r;6;repas exterieur
+c;7;courses
+p;8;raison personelle (banque, docteur)
+f;9;visite famille / amis
+b;10;se promener
+l;11;loisir
+o;12;autre
+x;13;aucune

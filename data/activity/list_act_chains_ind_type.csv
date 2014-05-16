@@ -1,0 +1,580 @@
+gender age_cl education sps drv_lic
+list of activity chains
+weights
+
+F 1 O A O 5
+bcfdm cm tcm tm ttcmddm 
+0.787 1.448 1.106 2.766 0.88 
+F 1 O A P 5
+ccpmtm ddddddllm dtm lcmpfmllfrcm tm 
+1.6 0.825 0.861 1.689 1.187 
+F 1 O E O 97
+bbm ccccm cccm ccmcm cdfm cfm cm cmbdlcm cmbm cmbmbm cmbmlcm cmcmm cmepm cmfm cmlm cmlmdm cmlmlm cmlmrm ddem dem demlfm demlm dmcm ecdcm ecdddm ecfm ecm edm edmdlclfm edmlm eelm eem efbpfppm efemlm efllm efm elecdddm elefm elem elerelm elm em embm emcm emdm emdmem emdpcddm emdppddm emedmdpm emedmfm emefm emelm emem ememcm ememem ememfmcm ememlm ememplm emepm emfm emlm emlmlm emm empm emppm emrm epm erem eremlm fbm fcm fcmcm fcmlfm fcmmlm fefmlm ffm flm flmbm fm fmfm fmrm lbm lcfm lcm lcmccfm lfmcm lfpm lm lmdm lmlm mbm mem mlbm pcm pcmlm pmdm ppcmccm 
+0.861 0.262 0.781 0.941 0.235 0.38 0.88 0.355 0.21 0.578 0.355 0.572 0.316 0.861 0.415 0.314 0.951 0.262 0.941 0.262 1.058 0.331 0.337 0.515 0.515 1.779 1.469 0.262 0.284 0.862 0.88 0.546 0.512 0.862 0.515 0.295 0.515 0.262 0.474 0.881 0.881 0.764 0.337 0.923 3.848 0.515 0.21 0.21 4.608 0.635 0.616 1.187 1.025 0.862 0.284 0.635 1.6 0.862 0.923 0.262 0.515 0.881 0.262 0.262 0.88 0.512 0.316 0.452 0.913 0.235 0.598 1.13 0.527 0.415 0.941 1.699 0.861 0.38 0.246 0.44 0.452 0.41 0.616 0.243 0.388 0.284 1.13 0.515 0.88 0.862 0.874 0.598 0.412 0.29 1.058 0.58 0.331 
+F 1 O E P 5
+cccm embm emcfm emfm mlm 
+0.364 0.287 0.702 0.21 0.861 
+F 1 O I O 9
+dlpcdmccfm dm eccm elm elmelm em emem fmlm lm 
+4.608 0.515 1.77 0.515 0.913 0.456 0.913 0.881 0.235 
+F 1 O I P 5
+ddm dm fm mlm pm 
+1.202 0.923 1.982 1.779 1.188 
+F 1 P A O 5
+ccm fm lm tm tvdflmbm 
+1.157 0.246 0.373 1.401 1.037 
+F 1 P A P 5
+cm tm tmlm ttm vm 
+0.88 0.923 0.349 0.411 0.359 
+F 1 P E O 81
+blm bm ccbrm ccpmembm cfmlm cm cmbm cmcm cmfm cmlmlmlm dccecfm dddm ddemlm dedmrm deebddm dlm dm dmdm ecemlm ecfm ecm edm eeem eeemmm eem eembm eemm efcflfffm effm effmmfblm eflclm efm efmlfm ellempm elm em embm emcm emcmcmfm emdcmbfm emdlm emdmbm emem ememlm emffm emfm emlm emlmlm emmmdm empcm empm empmlm erem erflfcfm errm fbm fcm ffm flm fm fmbfm fmbm fmdpm fmfm fmfmrm fmpm lclm lcm lfm lfrfm llm llmmfm lm lmfm lmlm lrpfm mlbfm mm pcmm pmlm rm 
+5.088 1.095 0.262 0.331 0.29 0.359 0.874 0.941 1.058 0.38 0.881 0.941 0.598 0.501 0.314 0.364 4.239 0.331 0.388 1.469 1.469 4.239 0.541 0.881 1.507 1.025 0.764 1.448 1.242 0.527 0.262 0.527 1.058 4.332 0.246 0.764 1.058 2.766 0.515 0.403 0.702 0.387 0.515 0.284 0.91 0.515 0.913 0.862 0.316 3.848 0.515 0.331 0.913 0.862 0.287 0.388 0.874 0.571 0.578 0.262 0.913 0.21 4.608 0.363 0.262 0.235 0.309 0.874 0.316 0.874 0.88 0.91 0.913 0.349 0.862 0.388 0.412 0.952 0.909 0.572 0.874 
+F 1 P E P 5
+cccm embm emcfm emfm mlm 
+0.364 0.287 0.702 0.21 0.861 
+F 1 P I O 5
+cm fm lm pmcm tttmmm 
+1.106 0.913 0.246 0.577 0.355 
+F 1 P I P 5
+dcmdm dddmddm dfcm dmdmdmdm fmdmcmcm 
+0.411 0.941 0.781 0.662 0.941 
+F 1 S A O 5
+ccm dtdmcm fm lm tvdflmbm 
+1.157 0.546 0.246 0.373 1.037 
+F 1 S A P 5
+ctmlm dmdtm fcfm tctm tfcfm 
+1.6 0.635 0.598 0.588 0.861 
+F 1 S E O 36
+bbm cfccm cm cmlfm cmlmlm debedmemfm dlcmlmfm ebefm ebemcm ebemem ebemrm ecm ecmbm eem efem elem elm em emem emldm emlm emlmfm epm erem eremcm erepm fbmffm fccccmflm fm fpm lbm ldllmmmm lm pmcmbfm pmemlm rfm 
+0.635 1.203 0.909 2.766 0.951 1.448 4.3 0.412 0.941 1.448 0.951 0.662 0.387 0.316 0.88 0.881 1.203 0.764 0.702 1.054 1.195 0.572 0.881 0.246 1.106 0.331 0.388 1.551 4.174 2.345 0.702 0.88 0.88 0.246 4.3 1.35 
+F 1 S E P 5
+dmlm embm emccbldm emcfm emfmfm 
+0.969 0.287 0.91 0.702 1.106 
+F 1 S I O 5
+ccm cmcmfm cpcm dm fm 
+0.862 0.441 4.116 0.608 0.515 
+F 1 S I P 5
+dcmcdm dfpcmdm fcfm lm pmcm 
+0.913 0.913 0.515 1.401 0.572 
+F 1 U A O 5
+cbbm ccm lm tcmcmbm tctmfm 
+0.351 0.947 0.874 1.628 0.681 
+F 1 U A P 5
+cccdfm dvctdmcm tmddmrm tttttptttfrdm tvvvlm 
+1.338 0.337 0.565 0.501 0.862 
+F 1 U E O 5
+ebm em embm erem lm 
+0.272 0.913 0.412 0.412 0.284 
+F 1 U E P 5
+cmcrm cmdm empcmcmmm flm mpm 
+0.501 0.359 0.811 0.388 0.243 
+F 1 U I O 5
+cmfmlm dfcfm dm dmdffm fcfm 
+0.757 0.681 0.412 0.262 0.615 
+F 1 U I P 5
+bbmbfm cmdm dcmlm lm pmcm 
+1.699 2.469 0.316 0.235 0.337 
+F 2 O A O 5
+bcfdm cm tcm tm ttcmddm 
+0.787 1.448 1.106 2.766 0.88 
+F 2 O A P 5
+ccpmtm ddddddllm dtm lcmpfmllfrcm tm 
+1.6 0.825 0.861 1.689 1.187 
+F 2 O E O 5
+cmepm edmdlclfm elecdddm emfm pmdm 
+0.316 0.284 0.515 0.262 0.58 
+F 2 O E P 5
+cccm em embm emfm mlm 
+0.364 0.881 0.287 0.21 0.861 
+F 2 O I O 5
+bllmfm cm dm dmdm fm 
+0.572 1.106 6.586 1.594 2.521 
+F 2 O I P 5
+dcm ddm dm mlm pm 
+0.316 1.202 0.923 1.779 1.188 
+F 2 P A O 5
+ccm fm lm tm tvdflmbm 
+1.157 0.246 0.373 1.401 1.037 
+F 2 P A P 5
+cm tm tmlm ttm vm 
+0.88 0.923 0.349 0.411 0.359 
+F 2 P E O 5
+elm em embm fm lm 
+0.295 0.881 0.262 0.702 0.403 
+F 2 P E P 5
+edffm eemm em emfm lmlmfmflm 
+0.501 0.515 0.881 0.572 0.764 
+F 2 P I O 9
+bm cdm cm ffm lm pm pmccm pmcm tttmmm 
+0.21 0.512 1.106 0.314 0.246 0.359 0.398 0.577 0.355 
+F 2 P I P 5
+dcmdm dddmddm dfcm dmdmdmdm fmdmcmcm 
+0.411 0.941 0.781 0.662 0.941 
+F 2 S A O 30
+cbm ccm cfmtfm cm dmdm dmpm dprm dtdm dtdmcm dtmdmcm dtmtmcdm fm lm lmlm tbtm tcdm tcm tdm tfm tfmtctm tlrm tm tmcmddm tmdm tmpm tmttm tpctmbbdfmlm trtm tvdflmbm vcm 
+0.598 1.157 0.246 0.781 0.825 0.395 0.525 0.43 0.546 0.923 1.401 0.246 0.373 0.681 0.578 0.825 0.544 1.77 1.359 0.923 2.313 1.469 1.13 0.43 0.515 0.881 0.969 0.386 1.037 0.43 
+F 2 S A P 111
+bbm bccmrm bm bmcmbmmm ccccccpffm cccmppm ccfm ccmbrcfmbm ccmccm ccmdbtmcddmlm ccpmtm cdcmffm cffm cfm cfmfm clm cm cmbm cmcm cmllm cmlm cpccmmpcfm cpffmfm ctmlm dbtm dccdmcm dcm dctm ddcmdfdmpm dddccm dddfpfm ddm dm dmcm dmcmcmpmfdfrm dmcmdddmdmdm dmcmdm dmdcm dmdcmtdmddcm dmdmdmddmdpm dmdtm dmtmccm dtcpmdcmbm dtctddm dtdm dtdmcdm dtdmrm dtm dtmpm dtmtm dtmtmdmcpmfm dttm dtttm dvvm fcfm fffmfm ffm fm fmtm frfm frfmbffm lmbmfdfm lmbmfm lmdfm pcm pcmcccm plcm pm pmpm pmpmrmdmbm ppmcm ptctcm ptmpcm pttcmcmpm rffm rm tccm tcdm tcm tcmlm tcmpcm tctm tctmlm tcvm tdm tdmdddddm tfcfm tfmcmlm tfrm tftm tm tmcm tmdm tmfmfm tmldlm tmlm tmrpm tmtm tmtmtmdmtm tpddm trccpfm trmlm trppccm trtdm trtm ttcm tvtm tvvmclm tvvtm vvddmcm vvvvvvvdm 
+0.337 0.412 1.095 0.29 1.203 0.38 1.187 0.821 0.355 0.862 6.548 0.941 0.546 0.235 1.187 0.262 2.957 1.04 0.832 7.441 0.415 1.203 0.578 1.6 0.757 1.211 3.09 0.862 4.332 4.165 0.881 0.38 4.3 0.862 0.88 0.862 0.941 0.635 0.941 0.635 0.635 0.515 0.403 0.403 0.781 0.515 0.941 0.913 0.913 0.913 0.364 0.662 0.314 5.088 0.598 1.187 0.598 1.187 1.13 0.309 0.246 0.515 0.862 0.337 1.106 0.781 0.913 1.594 0.44 0.359 1.528 1.628 0.981 0.235 0.832 0.525 1.211 1.699 1.106 2.303 0.29 0.588 0.364 0.881 1.319 0.515 0.861 4.409 0.301 5.088 1.025 1.095 1.04 0.861 0.85 1.106 0.85 4.174 1.054 1.242 0.913 0.88 1.77 0.616 1.6 1.242 0.913 1.302 1.628 0.881 0.349 
+F 2 S E O 34
+bmfm cbm cemlm cfmfm cfrm cpcccm crlcmemlm ebbem ebemdm ecmlm edm eeeemmm eem efm efpfmrem em embm emcm emem emfm emfrmccm emlm emlmlm emm erem fm lm lmlblmfm lmlm mm mmm plpllmlflm pmlmcm rcm 
+0.41 0.624 0.272 0.951 0.969 1.025 2.345 1.448 1.448 0.91 0.295 0.91 1.106 0.417 0.515 0.515 1.058 0.662 1.025 0.881 0.331 0.246 0.91 0.702 0.702 0.272 0.246 0.862 0.456 0.388 0.941 0.947 0.246 0.359 
+F 2 S E P 28
+bembcmdrm cccm cfffcblm cm cmfccdffm deefdm dmbm dmpmpm ecem edffm eemm elm elpmfrm em embm emfm empmfmbmmmm erem ffpppbrrfm flmfllmlm fmfm lm lmlmfmflm mfm mlm mrm pffcdrmfm pm 
+0.337 0.52 0.246 0.861 0.947 0.862 0.419 0.398 1.106 0.501 0.515 0.941 1.527 0.764 0.246 0.572 0.951 0.295 0.246 0.702 0.702 0.764 0.764 0.923 0.862 4.3 0.606 0.825 
+F 2 S I O 21
+bbblbmmm bm ccm cfm cm cmcmfm cmfmbmfm cmpm cpcm dcm dm dmcmdm dmdmcm dmdmdmdm fdcm ffm fm fmfmcmcm pccm pfm pmpmcm 
+1.729 0.388 0.862 0.781 1.202 0.441 1.187 3.848 4.116 0.662 0.608 0.351 1.6 1.13 1.628 1.699 0.515 1.211 0.862 0.337 2.133 
+F 2 S I P 48
+bcmdm bpcm bpm ccccm ccfm ccm cfm cm cmcmfm cmdm cmdmdmlm cpm dccdcfmdmfm dcmcdm dcmcpdm dcmdm dcmdmdmdmdmdm dcmdmfm ddcdm ddm ddpcdmcccmccm ddpddplm dfdmcmbm dfmdm dfpcmdm dm dmcdm dmdm dmdmdmdm dmdmfm dpcmdm dpm fbfm fccccm fcfm fcm ffm fm fmbcm fpfm frdccmdm lllm lm lmlm pfm pm pmcm pmdmdm 
+0.201 0.539 0.235 0.262 0.43 0.91 0.38 0.359 0.456 6.548 0.951 0.38 0.881 0.913 0.515 2.133 1.6 1.628 0.862 0.415 4.608 0.861 0.337 0.43 0.913 0.295 0.359 2.352 0.579 0.38 0.9 0.881 0.764 1.551 0.515 0.874 0.923 1.628 0.881 0.316 0.331 0.88 1.401 0.862 0.583 0.874 0.572 0.635 
+F 2 U A O 25
+bfm cbbm ccm cmcm cmdtmdmbm cmpfmppm cvmtvtlllm ddm dtdm fmllm lcmpfmllfrcm lm lmcm tcbm tcm tcmcmbm tctmfm tdpm tltlmrm tm tmcm tmtm trtvm ttmmfm vtm 
+0.43 0.351 0.947 0.606 0.337 0.316 0.544 0.546 1.095 0.881 1.689 0.874 0.525 1.054 0.246 1.628 0.681 0.349 0.337 0.388 0.337 1.106 0.757 0.9 0.452 
+F 2 U A P 234
+bbrcm bdm bm bmfm ccccrfm cccdfm cccffm cccm cccpcmpm ccddddcddmlm ccdlm ccfmlm ccm ccmcm cddmcdlm cdfm cdtvccdm cfbdm cffm cflfm cfmblm cllm cltm cm cmbm cmcccfm cmcm cmcmcmdm cmdmpm cmfbcm cmflm cmfm cmlm cmlrm cmpcfcfm cmpdcm cmtm cpmfrdlm crfm ctccfm ctppctm ctrtm cvtvm cvvvccm dcm dcmccmdlmlm ddctvtdm dddcm dddmdm ddllm ddmpcddm ddmtm ddpmppccmdpdm ddtctpddcm ddtdddmdccm ddtddmdmdm ddtdmdm ddtm ddtpcddm ddttcctcm dfcmldmtm dfmcmcdmcmfm dldm dm dmbdm dmccmdmcm dmcm dmcmdmdmdmlm dmcmdmpm dmdm dmdmdmdm dmdmdmdmdcmlm dmdmlm dmdmvmlmlm dmdtvdm dmlm dmpcccm dmpcmdmfm dmtddtfmpmfm dmtdtmdm dmtmlcm dpcmdcdcm dpdmdm dpftm dprdmddmddm dtbmcm dtcmfdlmlddm dtctdm dtddm dtdm dtdmdmdm dtftdcm dtlrmttddm dtm dtmdm dtmdmtm dtmfdm dtmfm dtmtdmfm dtptdmcmtm dtrtccmdm dtrtcfmlm dtttdcmdmdmdm dtvctmcm dtvdmcmlm dtvtdm dvctdmcm dvrcdm fccfm fcm fcpmlm ffm flblfrm flfm fm fmcm fmfdrdm fmflm fmlfm fmlrmfm fmpclmm fmrlm fpcfm fpfm ftfm ftm fvm lccm lcfm llcm lm lmbm lmbmfm lmccmdfm lmlmm mccmdfm mcfmtm mcm mdm mfrbmfm mlm mmmmlm pccm pcmdfdmrm pcvm pfm pfmffmfm pm pmbm ppfcm pppppppcfcm prm ptrmcmlpm rm rmfm rrm rvtm tbcm tbfm tbtpmbm tccm tcfm tcm tcmpm tctm tctmffpmllm tctrtm tdccm tddm tddmfcm tdm tdpm tfcmdmrm tfm tfrmlm tftdm tftfcccfm tftm tlfm tllm tlm tltmlm tm tmccmlm tmcm tmcmtm tmddmrm tmdldm tmdm tmfcm tmfm tmlm tmpm tmpmfm tmtm tmtmcm tmtmdldm tmtmflm tmtmfm tmtmppm tmtvtm tpm tpmlcm tprpmddmlm trctmfm trtdpm trtm trtmcmlm trtmdmdmlmrm trtmfm trtrm ttcmlplm ttddm ttm ttmmpm ttrtcm tttmmm tttttptttfrdm tvcm tvdddm tvmtm tvtctvbpm tvvvlm vdm vdmtm vm vmdvfffmvm vmrdm vmrmvvm vtvmlm vtvtfm vtvtmcm vtvvvccmlmbm vvttdmcm 
+0.681 0.235 0.787 0.373 0.512 1.338 0.571 0.861 0.314 0.21 0.608 1.211 0.359 1.04 0.235 0.702 0.415 0.544 1.319 0.88 1.594 0.349 1.6 1.628 1.6 1.053 0.913 7.441 0.862 0.386 0.544 0.764 0.69 0.43 0.359 0.355 0.246 0.757 0.546 1.6 2.646 0.525 5.147 0.88 0.314 2.233 0.781 3.478 0.88 0.825 0.546 0.316 0.88 1.058 0.314 0.301 1.319 0.88 0.546 0.88 0.913 0.781 0.764 0.43 1.203 0.88 1.13 1.187 0.262 0.515 1.187 0.415 0.284 0.515 0.923 0.515 1.6 0.635 0.662 0.512 0.923 0.515 0.881 0.662 0.635 0.359 0.881 0.329 0.923 0.781 0.862 0.9 0.616 0.913 1.6 1.628 0.515 0.403 1.6 1.13 0.598 0.88 1.779 0.359 0.787 0.403 0.337 0.359 1.594 0.544 0.681 0.874 1.401 0.85 0.913 0.588 1.545 2.063 0.388 0.88 1.661 0.43 1.661 0.941 1.699 1.359 0.544 0.262 0.616 0.337 0.515 0.262 0.881 0.388 1.106 0.388 0.38 0.588 1.025 0.757 1.106 7.241 4.165 0.452 0.411 1.401 1.751 0.359 1.527 0.578 0.351 0.681 0.947 0.43 0.262 3.681 0.452 0.681 0.64 0.64 1.699 0.504 0.565 0.262 0.913 2.306 1.321 0.913 0.579 0.781 0.781 0.316 0.512 0.712 0.501 0.862 0.874 0.512 0.284 0.91 1.507 0.757 0.764 0.821 0.64 4.608 0.565 0.525 0.262 0.284 0.337 0.262 0.337 1.265 2.766 1.025 1.025 2.244 0.303 0.571 1.106 0.262 0.681 0.375 0.571 0.38 0.757 0.64 1.699 0.764 0.243 2.063 1.689 0.941 1.699 0.88 0.764 0.501 0.681 0.388 0.515 0.504 0.862 0.861 0.88 0.456 1.6 0.525 0.201 0.64 0.246 0.635 1.04 0.608 
+F 2 U E O 6
+ebm eefm em embm erem lm 
+0.272 1.025 0.913 0.412 0.412 0.284 
+F 2 U E P 17
+cfm cm cmcrm cmdfmlm cmdm eem elcmfm em emcm empcmcmmm erccmcrm flm mlmfm mpm pm ppccmfm pprppm 
+0.969 0.91 0.501 0.43 0.359 0.764 1.314 0.272 0.764 0.811 1.025 0.388 0.702 0.243 1.35 0.243 0.417 
+F 2 U I O 5
+cmfmlm dfcfm dm dmdffm fcfm 
+0.757 0.681 0.412 0.262 0.615 
+F 2 U I P 39
+bbbbbbrm bbmbfm bcmpm bm brm ccffm cdcmcbm cdplpdmdbdddm cfm cm cmdm dcddm dcm dcmlm dmbdmppm dmcdmfbm dmcmdm dmcmdrcmrrm dmddddm dmdm dmdmcm dmdmdddmdpm dmdmdmdm dmffm dmm dmmdm dpm fm lm pccpmpfm pcmlm pdm pfdm pmccpm pmcm rccmlm rffm tmbm ttttfm 
+0.85 1.699 0.411 0.355 0.64 1.628 0.787 0.349 0.398 0.88 2.469 0.552 0.546 0.316 0.88 0.403 0.862 0.913 0.571 0.316 0.861 4.608 0.403 0.337 1.106 1.699 1.803 0.337 0.235 1.188 0.43 0.861 2.882 1.488 0.337 1.6 0.846 0.337 0.941 
+F 3 O A O 5
+bcfdm cm tcm tm ttcmddm 
+0.787 1.448 1.106 0.951 0.88 
+F 3 O A P 7
+cdcm cfm cm cmlm ctcpm tctm tm 
+0.764 0.315 1.025 0.393 5.668 0.466 1.106 
+F 3 O E O 5
+cmepm edmdlclfm elecdddm emfm pmdm 
+0.316 0.284 0.515 0.262 0.58 
+F 3 O E P 5
+cccm em embm emfm mlm 
+0.364 0.881 0.287 0.21 0.861 
+F 3 O I O 11
+bm cfmfm cm ddddm dmcmdm dpcmfm fcmlfm fm ldm pfm pm 
+0.373 0.941 1.469 3.848 0.293 0.952 0.527 0.388 0.764 0.398 0.295 
+F 3 O I P 7
+cccm ccmbrmlm dm dmdm dpdmdmcmdm fm ppm 
+0.764 0.941 0.702 0.662 0.873 4.3 0.501 
+F 3 P A O 5
+bcfm cm tm tmcfcm tpbm 
+1.303 0.246 1.025 0.941 0.263 
+F 3 P A P 9
+cpmlm dtdmcm fm ptfm tm tmcm tmlbm ttbm vtctm 
+1.025 0.941 0.373 0.749 1.025 1.106 0.417 0.947 1.025 
+F 3 P E O 5
+bfm eemm embm fm llm 
+0.295 2.106 0.262 0.702 0.331 
+F 3 P E P 5
+dmpmpm edffm eemm emfm lmlmfmflm 
+0.398 0.501 0.515 0.572 0.764 
+F 3 P I O 9
+bcdm bm cddm cm cmcm cmfm dcmllmlm fm lmrddm 
+1.025 0.466 1.025 0.764 2.766 0.572 0.415 1.025 2.766 
+F 3 P I P 15
+bm ccdm cdm cm cmbm cmmm cpccm cpfm dfm dmdmdmdm dmdmdmdmdmbm fm pdm pm pmpcm 
+0.883 0.947 2.766 1.106 0.417 0.941 0.764 2.345 0.243 0.515 0.246 0.941 0.387 0.501 0.246 
+F 3 S A O 18
+ccm cm cmfm cmlm fm lfm tdm tfffm tlm tm tmcmpm tmtm tmtmcmbm tmtmfmfm tmtmpccm tmvm tpm ttm 
+0.355 0.246 0.359 0.91 0.284 0.951 0.246 1.448 0.386 0.913 1.448 0.572 0.331 1.106 0.501 0.88 0.331 0.791 
+F 3 S A P 104
+bbm bccmbbbm bm bmcmvm bmddrdm brm brmfmbm btmcccfmbm ccclm cccmfm ccdfmfm cclm ccm ccpvm cfm cfmfm cfpcfmcdcpm cm cmbm cmcm cmcmfm cmdmcm cmfccmm cmlmcmlm cmpmllm cmrm cmtmlm cpcccm cpm ctm ctmfm ctvmllpm dbdm dccdcm dcm ddccdfm ddfm dfmcmdmcm dfmcmtdm dfmlm dmdmdm dmdtddm dmfm dmlm dpmm dtdcm dtdm dtdmtm dtm dtrtm fffmffm fm fmcmfmlmllm fpfm llmlm lm pbm pcmlm plmfcbfm ptm rm tccftttm tclm tcm tcmflm tctcddmfrm tctdcm tctm tctmrm tctvm tddm tdm tm tmbcmdmdm tmbm tmcctm tmcm tmcmbm tmcmcmfm tmcmtlm tmdm tmfm tmfvvm tmlm tmlmfm tmmpm tmpm tmrfm tmtm tpm tptm tptpm trtcccm trtcm trtm trtpm ttm ttmdm ttpmlm tvcpmpm tvm tvtctmfm tvvlm vmvm 
+0.419 3.007 0.52 0.76 0.952 0.941 1.297 0.91 1.025 0.913 0.941 0.598 0.969 2.345 0.881 5.034 0.527 0.764 2.766 0.88 1.025 0.246 0.29 0.515 0.881 0.913 1.025 1.025 0.702 1.862 0.881 0.415 0.552 0.913 0.355 0.314 0.571 1.13 0.287 1.71 0.295 0.572 0.316 0.862 0.419 0.969 0.598 0.662 1.527 0.287 1.827 1.025 0.923 1.299 1.058 4.3 0.146 1.058 0.91 2.447 0.941 0.941 1.106 0.941 4.861 0.702 0.501 0.295 0.246 1.363 0.417 0.474 0.764 0.474 0.373 2.766 0.635 0.412 0.515 0.515 0.91 0.314 0.76 1.106 2.345 0.388 1.106 0.415 1.35 0.764 0.361 0.272 1.314 0.52 0.913 0.862 0.881 0.941 0.415 0.359 0.862 0.361 0.941 0.355 
+F 3 S E O 5
+ebm eemm emflm fm lm 
+1.527 0.941 0.501 0.951 2.283 
+F 3 S E P 5
+dmpmpm edffm eemm emfm lmlmfmflm 
+0.398 0.501 0.515 0.572 0.764 
+F 3 S I O 16
+bm bmbmbm ccm cldmdm cm cmcccm dcm dm dmcmdm ffm fm lmfm pcmfm pmrmm rcm rm 
+0.388 0.552 0.941 1.106 1.779 0.295 0.295 0.412 0.881 0.764 1.862 0.246 1.106 0.295 0.246 1.106 
+F 3 S I P 82
+bbm bccmlm blmbm bm bmcmdcm cbm cccpm ccm ccmblm ccmpmdm cdm cdmcmlm cfbmcmfm cfm cfmffm cllmfm clm clmlmllm cm cmbmpccm cmcm cmdm cmdmdmdm cmfm cmfmcmfm cmlm cmlmlm cmpm cmpmcmppccmdm cpm cppcmcmbm crmpm dbmppmcdm dcm dcmdm ddccddm dfcm dffmdfm dfmcmdm dm dmcmcmfm dmcmdddmddcm dmcmdm dmcmfmdmdm dmcmpmdmcm dmdfdbdcm dmdm dmdrdlcrdm dmfcmlm dmfmfm dmlfm dmmdm dmpmdmpddmdm dpdm fbbm fcffpm fcfm ffm fm fmcm fmcmccmcmpprm fpccmccm fpmbmcmbmbm lfmcmdm llm lm lmcm lmdmdmfm lmffm lmrm lpprblprm mcm mfm pcdmpmcm pcm pm pmfcm ppm rfccfffm rm tcm tm 
+0.415 0.764 1.35 0.243 0.363 0.764 1.025 0.21 1.551 0.764 0.764 1.106 3.857 4.239 0.952 0.764 1.025 0.969 0.764 0.791 0.91 1.025 0.295 0.88 0.941 1.106 0.947 2.345 0.243 0.947 1.579 5.034 0.287 0.246 0.456 1.302 0.881 0.598 0.923 0.881 0.764 0.862 1.106 1.527 0.861 0.474 0.883 1.204 0.91 4.832 0.373 0.764 4.3 0.342 0.415 0.474 0.91 1.35 1.35 0.331 1.862 1.106 0.415 2.949 0.327 0.764 1.106 0.501 1.654 1.025 0.388 0.749 0.501 0.295 0.44 1.025 0.515 4.832 1.106 1.106 1.025 0.862 
+F 3 U A O 10
+cfm cmtm fcm fdm fffm ptccm ptptrtptm tmbm tmcm tvvvvvvfbm 
+0.29 0.923 1.729 0.862 0.504 0.552 0.583 0.38 0.412 0.412 
+F 3 U A P 170
+bbbbm bbcm bbm bcmbm bmdmtmbmbm btmtm btmvvmbtmbm btrtcmbm cbm ccllm cclm ccm ccmfbdm ccmlm cctdmdm cdmcrm cfm cfmcm clm clmlffm cm cmbmfmdm cmcdmdm cmcm cmctbm cmdccccfcmfm cmdm cmfm cmlmdrdm cmpcmcm cmpmcmbm cmpppm cmtmcm cmttrm cpmcm cptm ctctcm ctctm ctmbm dcbmcpdcmdmdm dccmdm dcdtfmpm dcm dcmcmccfm dctlrtdm dcvrtcmdm ddcmpbm ddm ddptm ddtctmddtm ddtdfmlfm ddtmrm dllm dm dmcmdmdmpmtm dmcmdmtm dmctdm dmdm dmdmcmdmdm dmdmddmdm dmpcccm dmpmpcmcmdldm dmttvtmdmtm dmvmvm dpcccmdm drbdm dtccmcm dtctdm dtdm dtdmlcm dtdmlm dtdpm dtfdm dtlm dtm dtmddmdclffm dtmdmcm dtmdmdrm dtmtm dttmpm dtvcpm dtvctvtpm dtvdm dtvtctdmdmdm dtvtdmdm fbm fcm fdfbm fdfddm ffm fftm fm fmcm fmfm fmlmtm fpfm frm lcm lffmrlm lm lmbm lmddm lmdm lmfm lmrm lmtm lpmlfmbm lpmvtcmdm mlbm mmfm pm pmltmcccmdtm pmtvmtvtcm pmvfm ppcmccm ppmctmbm ptcm pvvm rdm tcdm tclm tcm tcmdffm tcmdtdm tcmlm tctfm tctfmlm tctmbm tctmcm tctptm tdm tfmtttm tftm tftmcm tldmrm tlm tm tmbbpmlpcm tmbdrm tmcmddm tmcmtdm tmcvm tmdfdm tmdm tmfcmbm tmfmfmfm tmllm tmlm tmppcm tmtm tmttm tmvm tpm trcmldm trtdmvcm trtm trtmlm trttcmftm ttctcmlldm ttm ttmfm ttvtvtm tvtmrm tvvtvvtvcm vdcmvmlm vm vmbm vmtmlm vtm vvpctfmrmlm 
+4.3 0.588 0.702 0.331 0.361 0.388 1.729 1.827 0.455 0.359 2.766 0.303 1.025 0.862 1.106 0.874 0.862 0.941 0.825 0.88 1.106 0.41 0.355 0.246 0.246 0.862 0.764 0.44 0.874 0.361 0.246 0.393 1.106 0.373 0.969 0.246 0.359 0.295 6.548 0.262 1.314 0.702 0.41 0.388 0.452 0.881 0.883 0.243 0.373 0.331 1.058 0.501 0.88 1.106 1.025 0.284 1.448 4.239 1.098 0.387 0.331 0.246 0.501 0.331 0.913 0.398 1.448 1.203 0.572 5.632 0.388 0.316 0.29 4.816 0.29 0.284 0.359 0.447 0.88 0.342 1.242 0.764 0.969 0.388 0.862 0.388 1.942 0.38 1.71 4.861 0.662 0.246 0.41 2.766 0.479 0.941 1.527 0.387 0.415 0.764 0.951 0.702 0.88 0.349 1.658 0.791 0.387 0.295 0.412 0.403 0.781 0.941 0.415 0.455 0.331 0.386 0.303 0.969 0.415 0.598 1.651 1.025 0.874 3.848 0.662 0.243 0.455 0.246 0.363 0.359 1.025 0.941 0.941 0.41 1.195 0.947 0.515 0.52 0.862 1.195 0.951 0.331 0.412 1.025 0.683 0.388 1.827 0.88 0.262 1.35 0.246 2.468 1.025 0.331 0.235 0.41 0.246 0.393 3.007 0.941 0.91 0.331 0.951 0.941 0.355 0.552 1.058 0.88 0.361 0.43 
+F 3 U E O 5
+ebm em embm erem lm 
+0.272 0.913 0.412 0.412 0.284 
+F 3 U E P 5
+cmcrm cmdm empcmcmmm flm mpm 
+0.501 0.359 0.811 0.388 0.243 
+F 3 U I O 7
+bbfmbm cm cmllm cpcm dmdm fm fmcmcmcmfm 
+0.361 0.309 0.969 0.412 0.923 0.388 0.295 
+F 3 U I P 57
+blm bm ccccmdmcm cccmdmdcm ccm ccmccm ccmpm cfm cfmppm clm cm cmcm cmdcmdmdddmlm cmdm cmdmddppm cmpm cmpmlmcm dbbmcmdm dcflm dcmccmfm dcmcmdm dcmdmfmpmcm dddlcdm ddlm ddmpcm dfcfm dm dmccccmdmbrm dmccpdm dmdlm dmdm dmdmdmdm dmdmdmdmcm dmpddmcmddm dmpm dpdmfcfm dpppmpcddmfm drdmblm fbm fmcm fpprpm lcdcmdldmcmcm lcmbm lfpm llmfm lm lmfm lmpmlmpm pcmcm pcmdm pcrm pdmdfm pfpfcfm pm pmddm pmdfbbfmccmbm rm 
+0.262 0.361 0.295 0.387 0.528 0.246 0.947 0.91 0.941 0.373 0.91 0.246 0.862 0.969 0.21 0.883 0.52 0.246 5.034 0.91 0.598 0.146 0.913 0.91 0.941 1.025 0.76 4.239 1.025 0.515 0.331 1.025 0.874 0.702 1.942 0.412 0.262 0.952 0.702 1.025 0.52 0.331 0.387 1.13 0.572 1.163 0.515 0.479 0.331 0.403 0.764 0.373 0.246 0.246 0.287 0.309 14.952 
+F 4 O A O 5
+bcfdm cm tcm tm ttcmddm 
+0.787 1.448 1.106 0.951 0.88 
+F 4 O A P 5
+cdcm cmlm ctcpm ppm tctm 
+0.764 0.393 5.668 0.501 0.466 
+F 4 O E O 5
+cmepm edmdlclfm elecdddm emfm pmdm 
+0.316 0.284 0.515 0.262 0.58 
+F 4 O E P 5
+cccm em embm emfm mlm 
+0.364 0.881 0.287 0.21 0.861 
+F 4 O I O 11
+bfbm bfm cm cmfm cmlmrmfm cmrm dm fm lm pm pmcm 
+0.363 0.315 1.163 1.595 1.148 0.263 1.861 0.453 1.449 0.293 0.363 
+F 4 O I P 6
+bm cm dm dpmdm drdm rm 
+0.883 0.764 0.305 3.567 1.557 5.573 
+F 4 P A O 5
+bcfm pm tm tmcfcm tpbm 
+1.303 0.969 1.025 0.941 0.263 
+F 4 P A P 5
+ccctm cm fm tm vtcvrvbm 
+0.5 0.91 0.373 0.246 0.479 
+F 4 P E O 5
+bfm eemm embm fm llm 
+0.295 2.106 0.262 0.702 0.331 
+F 4 P E P 5
+dmpmpm edffm eemm emfm lmlmfmflm 
+0.398 0.501 0.515 0.572 0.764 
+F 4 P I O 22
+bcpm bm cccm ccm cfm cfmdmpm cllm cm cmcm cmcmcm cmpm cmpmcmpm ddm flm fm fmcm fmlm lm lrllm pcm pm pmfmfm 
+0.293 0.456 2.805 1.469 0.243 1.265 1.148 1.469 0.192 4.832 1.353 0.91 0.91 1.449 2.228 1.265 5.258 1.166 0.293 0.45 3.112 1.507 
+F 4 P I P 13
+cbm ccm ccmlmlmfm cfm cfmlm cm cmbcm ffm fm lm lmlmfmrm pcpm pm 
+0.528 1.353 0.91 1.469 1.983 1.163 0.309 1.106 1.265 2.668 1.057 0.358 0.309 
+F 4 S A O 5
+ccm fm lfm tmvm tpm 
+0.355 0.284 0.951 0.88 0.331 
+F 4 S A P 6
+cm cmcm tctfm tm tmtm vvm 
+1.148 0.293 0.941 0.364 0.295 0.293 
+F 4 S E O 5
+ebm eemm emflm fm lm 
+1.527 0.941 0.501 0.951 2.283 
+F 4 S E P 5
+dmpmpm edffm eemm emfm lmlmfmflm 
+0.398 0.501 0.515 0.572 0.764 
+F 4 S I O 38
+bbm bcmfdm bm brcm cbm cccmcmcm ccm ccpm ccrm cdrcmbdcmfm clm cm cmcm cmfcm cmfm cplmcm cpm dddmmcmbbm dm dmlm fbm fm fmbm fmcm frfmfm lfm lm pcm pfm pm pmcm pmlblm pmpmdm pmrm pplcm ppm prfm rm 
+0.979 0.373 0.363 6.349 0.591 8.113 0.979 1.469 0.358 0.456 0.456 2.38 1.163 5.586 0.456 1.106 0.358 0.388 1.163 1.353 1.163 1.507 0.263 1.053 0.309 0.363 0.947 0.364 0.358 2.228 1.507 4.832 1.363 0.41 0.263 0.501 1.148 0.91 
+F 4 S I P 52
+bbcdpmm bbm bcm bdpmcm bm cccm ccmcm ccmdldm ccmlfm ccmmcm cdm cfm clm cm cmbbbm cmbm cmcmdccdm cmcmfm cmcmpm cmdm cmfm cmllfm cmlm cmlmfm cmpm cpm cpmcm dbbm dcm dcpm ddm dfcmdmlm dmcmbdm fbbfm ffm fm fmcm fmfm lldm llm lm lmlm pcfm pcm pcmpm pm pmcm pmcrm pmdm ppm ppppm rm 
+1.862 0.309 0.947 1.35 0.91 0.979 1.507 0.295 1.057 1.148 0.764 1.862 0.364 1.265 1.595 0.364 1.507 5.586 1.527 0.361 0.293 1.507 1.469 0.764 0.293 0.364 1.133 0.263 2.618 1.025 0.263 0.702 0.358 0.501 0.315 0.263 1.148 0.624 0.501 0.293 1.265 1.862 1.469 1.803 0.591 1.148 1.725 0.591 1.507 0.293 0.979 1.265 
+F 4 U A O 5
+cm fffm ptptrtptm tmbm tvtm 
+0.246 0.504 0.583 0.38 0.295 
+F 4 U A P 7
+ccclmm drm fmcm lllbmm lm lmclmfm tm 
+0.364 2.749 0.456 1.827 0.456 0.355 0.243 
+F 4 U E O 5
+ebm em embm erem lm 
+0.272 0.913 0.412 0.412 0.284 
+F 4 U E P 5
+cmcrm cmdm empcmcmmm flm mpm 
+0.501 0.359 0.811 0.388 0.243 
+F 4 U I O 8
+cfm cm cmcm dm drfdm fm lbm lm 
+0.456 0.591 1.598 0.327 0.331 1.469 0.309 0.358 
+F 4 U I P 42
+bcffm bfm bm cbm ccccm cccmdm ccfmlm ccm ccpfm cdm cdpmmm cfm cm cmblm cmdm cmfm cmlm cmpmlrm cpccm cpm dcdm dfprfdrdm dmcfldm dmcm dmlmdmpm dmlmllmm fbfm fcm ffm fm fmffm fpm lfm llm lm lrllpm pcmllm pm pmcmcffmfm pmfm pmmlfm ppm 
+0.909 0.591 0.327 0.309 0.331 0.591 0.309 1.106 0.358 0.41 0.309 4.832 1.148 0.363 1.469 0.501 0.702 2.345 0.591 0.45 0.263 1.449 0.358 0.309 0.455 5.573 0.761 1.025 0.972 1.141 0.979 0.572 0.528 0.591 1.469 0.455 0.358 1.448 0.305 1.163 0.358 1.163 
+H 1 O A O 5
+bcfdm cm tcm tm ttcmddm 
+0.787 1.448 1.106 2.766 0.88 
+H 1 O A P 5
+ccpmtm ddddddllm dtm lcmpfmllfrcm tm 
+1.6 0.825 0.861 1.689 1.187 
+H 1 O E O 94
+bcmppm blm brm cbm ccdmfm ccfm ccm ccmdcm cfmbm cfmccfm clm cm cmbm cmbmbm cmfm cmlmrm defbbdcm dflmbdfm dlerelm dm dmcmddm dmemdm eccm ecem ecmlm ecmlmpm edcm edm eeedm eelm eem eemm efbfm efm efmbm efmfm efpmbm eleffm elem elm elmm em embm emcm emdcmlm emeddmlm emem emembm ememcm ememlm emempm emepm emfm emfmlm emfpm emlm emlmrm emm empm erdemlm erem eremlm erllm fbbbm fbm fcbccbm fcfm ferefm fflcmfm ffm fm fmccmfm fpm lcm lcmfm lfpm lllm llm llmlm lm lmdm lmfbm lmfm lmlm lmlmfm mccm mcm mefm mlbm mlm mrffm pfmlllm pmdfm pmfm 
+0.515 0.262 0.262 0.598 0.235 0.388 0.359 0.981 0.38 1.187 0.262 2.283 0.21 0.578 0.861 0.262 1.058 0.38 0.881 0.881 1.13 0.941 0.913 0.862 1.779 0.262 3.478 0.702 0.862 0.913 0.862 5.088 0.29 0.598 0.598 0.662 0.316 0.262 0.262 0.881 0.88 2.352 0.635 1.025 0.415 4.608 0.764 0.331 0.331 3.848 0.862 1.448 0.881 0.635 0.923 0.515 0.373 0.598 1.6 0.913 0.598 0.635 1.6 0.861 0.235 0.861 0.662 0.235 0.527 0.546 1.314 0.91 0.349 0.243 0.923 1.13 0.862 6.548 0.415 0.515 0.88 0.403 0.9 0.284 0.501 1.779 0.862 0.349 0.412 0.262 0.846 6.548 0.403 0.403 
+H 1 O E P 5
+cccm embm emcfm emfm mlm 
+0.364 0.287 0.702 0.21 0.861 
+H 1 O I O 14
+cm dm efm em emcm emdfmdm emem emlm erem erlmfm fm fmlm mecm pm 
+0.881 0.284 0.359 0.881 1.77 0.9 0.861 0.316 0.881 0.361 0.913 0.881 0.546 0.359 
+H 1 O I P 5
+ddm dm fm mlm pm 
+1.202 0.923 1.982 1.779 1.188 
+H 1 P A O 5
+ccm fm lm tm tvdflmbm 
+1.157 0.246 0.373 1.401 1.037 
+H 1 P A P 5
+cm tm tmlm ttm vm 
+0.88 0.923 0.349 0.411 0.359 
+H 1 P E O 65
+bbm bdcdm bfffm bm ccfm cflfm clm cm cmbm cmbmbm cmcmbmbm cmfflm cmffm cmfmbm cmlm cmlmlm cmplcm deemlm ebemcmbm eeem eeemmfmbm eem eemm efm efmlm elelemflm elm em embm emcm emem ememcm ememfm emfm emfmcm emfmfcfm emfmlm emlm emlmbm emlmlm emm emrfm emrm eredllmfmpm erefmfm ermfm fbm fcccccm fffmlm flm fm llbm lldm lllm llm lm lmlm lmpcm mccffm mfm mlm mmfm pmbmpmpm pmlm rm 
+0.415 0.825 0.874 0.883 0.456 0.415 0.287 0.303 0.415 0.578 0.235 0.862 3.848 0.235 0.41 0.415 0.355 0.316 0.861 0.403 3.848 0.881 0.923 1.469 0.862 0.572 0.702 0.764 1.058 0.635 0.941 0.316 1.037 0.91 0.331 0.295 1.579 0.515 0.387 1.579 1.106 0.415 0.951 0.598 0.388 1.037 0.38 1.551 0.272 0.861 0.764 4.174 0.861 0.791 0.359 0.515 3.848 0.262 0.456 0.235 5.034 0.403 0.947 0.359 0.403 
+H 1 P E P 5
+cccm embm emcfm emfm mlm 
+0.364 0.287 0.702 0.21 0.861 
+H 1 P I O 5
+cm fm lm pmcm tttmmm 
+1.106 0.913 0.246 0.577 0.355 
+H 1 P I P 5
+dcmdm dddmddm dfcm dmdmdmdm fmdmcmcm 
+0.411 0.941 0.781 0.662 0.941 
+H 1 S A O 5
+ccm dtdmcm fm lm tvdflmbm 
+1.157 0.546 0.246 0.373 1.037 
+H 1 S A P 5
+ctmlm dmdtm fcfm tctm tfcfm 
+1.6 0.635 0.598 0.588 0.861 
+H 1 S E O 32
+cm ddeemmm dedm dem ebm ecm eeemmm eemm efm elpcm em emcm emcmcm emem ememdcmlm ememm emfcmrmfffcfm emlm emrmfm epm erm fbm fcm fm lldmlm lllcllllflm llllm llm lm lmrfm mcmlllm rmldm 
+0.303 0.515 0.91 0.941 0.941 1.106 0.941 0.923 0.295 1.195 0.515 1.025 1.779 1.106 0.316 0.881 0.331 0.825 0.515 0.883 1.507 0.662 0.874 0.861 0.881 0.969 0.515 0.88 0.862 5.034 0.862 0.578 
+H 1 S E P 5
+dmlm embm emccbldm emcfm emfmfm 
+0.969 0.287 0.91 0.702 1.106 
+H 1 S I O 5
+ccm cmcmfm cpcm dm fm 
+0.862 0.441 4.116 0.608 0.515 
+H 1 S I P 5
+dcmcdm dfpcmdm fcfm lm pmcm 
+0.913 0.913 0.515 1.401 0.572 
+H 1 U A O 5
+cbbm ccm lm tcmcmbm tctmfm 
+0.351 0.947 0.874 1.628 0.681 
+H 1 U A P 5
+cccdfm dvctdmcm tmddmrm tttttptttfrdm tvvvlm 
+1.338 0.337 0.565 0.501 0.862 
+H 1 U E O 5
+ebm em embm erem lm 
+0.272 0.913 0.412 0.412 0.284 
+H 1 U E P 5
+cmcrm cmdm empcmcmmm flm mpm 
+0.501 0.359 0.811 0.388 0.243 
+H 1 U I O 5
+cmfmlm dfcfm dm dmdffm fcfm 
+0.757 0.681 0.412 0.262 0.615 
+H 1 U I P 5
+bbmbfm cmdm dcmlm lm pmcm 
+1.699 2.469 0.316 0.235 0.337 
+H 2 O A O 5
+bcfdm cm tcm tm ttcmddm 
+0.787 1.448 1.106 2.766 0.88 
+H 2 O A P 6
+ddddddllm dtdm dtm lcmpfmllfrcm mtm tm 
+0.825 1.187 0.861 1.689 0.913 1.551 
+H 2 O E O 5
+cmepm edmdlclfm elecdddm emfm pmdm 
+0.316 0.284 0.515 0.262 0.58 
+H 2 O E P 5
+cccm em embm emfm mlm 
+0.364 0.881 0.287 0.21 0.861 
+H 2 O I O 5
+bllmfm bm cbm lm mdcbpm 
+0.572 0.327 0.351 0.392 0.546 
+H 2 O I P 5
+dcm ddm dm mlm pm 
+0.316 1.202 0.923 1.779 1.188 
+H 2 P A O 5
+ccm fm lm tm tvdflmbm 
+1.157 0.246 0.373 1.04 1.037 
+H 2 P A P 7
+bmllm dvtrtvtvtmrm tm tmpfm ttm vm vprtm 
+0.501 0.512 1.6 0.546 0.411 0.359 0.337 
+H 2 P E O 5
+bflfm eemm embm fm llm 
+0.572 2.106 0.262 0.702 0.331 
+H 2 P E P 5
+edffm eemm em emfm lmlmfmflm 
+0.501 0.515 0.881 0.572 0.764 
+H 2 P I O 5
+cm fm lm pmcm tttmmm 
+1.106 1.057 0.246 0.577 0.355 
+H 2 P I P 5
+bm dddmddm dmcmdmdm dmdmdmdm ppm 
+0.452 0.941 0.88 0.662 2.244 
+H 2 S A O 13
+cfm cfmlm cm cmbbbbrm cmfmbmfm cmrm dm fmfm fmlm rm tm tmtm ttttm 
+1.832 0.351 1.628 1.172 1.187 0.832 0.512 0.479 0.881 0.349 0.781 0.544 1.699 
+H 2 S A P 181
+bbbbbbrm bbmbfmcm bm bmtm btm ccbm ccccrfm ccm ccmcm cfclm cffcm cffm cfmblm clfm cm cmcfbmcm cmcmbm cmcmfm cmfm cmfmcfflm cmpcm cmpmrpm cmtm cpm cppm ctm cvvm dccdm dcmldm dcmpdm dcmpmtm dcpmpm ddddddttdm dddm dddmldlm dddtdrdm ddm ddtddm ddtdppm ddtmlm dm dmccffm dmcmdfrm dmcmtm dmdcmpddfmdm dmdmcm dmdmldddddmpm dmdmtm dmlmflm dmrm dmrmcffm dmtfm dmtm dmtvdmrm dmvvmcm dpcdmcm dpdm drtm dtddm dtdm dtm dtmcmddm dtmlm dvtm emem fcbmddddm fcfmtm ffbcm ffm fldm fllm fm fmdmtm fmlmtm lcm lfm lllmfmlmpmfm lllmlm llm lm lmcmrm lmdmdm lmlm lmtm lpm lpppm mcmcmtm mcmlmcm mcmrm mcmtm mddm mdlddmlllm mdmdmdmtm mdmtm mpdcmtm mpmtm pcmfm pfmlmfm pm pmddcmcmcm pmlm pmlrmllm ppcclcpmlccm ptpm pvm rffm rfm rmfm tcfcmfm tcm tcmctmlm tcmfm tctctm tdccdm tddmtdmtdmfm tdfcdmfdrdm tdm tdmcm tdmtdmcm tffctccfm tfm tllm tlm tm tmbm tmccffm tmccmlm tmcm tmcmbm tmcmcm tmcmfm tmcmlm tmcmpmpm tmdldm tmdm tmfdm tmffbm tmflm tmfm tmfpcfllcmfm tmlm tmmttm tmpcm tmpdm tmpm tmppm tmppmddm tmrm tmtcm tmtm tmtmbm tmtmplmlm tmtmtmtm tpfmcm tpm tpmcfm tpmm trtm trtrllm ttcm ttm ttmm tttm tttmfm tttmlfm ttttm tttttm tvlm tvmfm tvtdm tvtm tvtmtm tvtmtmlm tvvmvtmddm tvvvmtmlm tvvvvvmpfm vm vmvfrrm vtmcpmcvmdm vvpmtm vvvmvvm 
+0.85 1.699 0.262 1.319 0.956 0.598 0.512 0.941 1.04 4.165 0.941 0.862 1.594 1.401 2.244 0.941 0.606 1.187 0.337 1.456 1.6 0.85 0.337 0.548 0.316 0.764 1.594 0.913 0.923 0.861 0.781 0.862 0.606 1.6 0.85 1.058 8.969 1.699 0.512 0.969 0.9 0.456 0.301 0.88 0.9 0.359 0.515 0.662 0.862 1.699 0.881 0.316 0.544 0.337 0.398 0.781 0.608 0.881 1.689 0.337 0.861 1.13 0.635 1.6 0.913 0.606 0.598 1.758 1.699 0.907 0.515 0.515 1.211 1.211 0.923 0.573 0.881 0.764 0.862 1.025 0.412 0.88 4.3 0.764 0.501 1.6 0.861 1.6 0.832 4.608 0.606 0.571 1.187 1.6 0.881 0.941 3.27 1.751 0.913 0.88 0.515 5.573 1.6 1.758 0.635 0.832 0.52 1.187 1.211 1.106 0.832 0.825 0.583 0.88 1.187 1.545 0.941 1.689 1.058 0.515 0.832 4.174 0.91 0.515 0.88 1.628 0.515 0.91 2.882 0.913 0.501 0.452 1.6 1.106 0.515 0.578 1.187 2.244 0.881 1.6 2.345 0.862 0.862 0.635 0.881 1.6 0.662 0.388 1.187 1.211 4.174 0.91 0.861 1.258 0.43 2.646 2.766 0.293 0.832 1.544 1.187 0.941 0.941 1.456 0.941 0.578 2.345 0.947 0.316 1.302 0.749 0.38 0.69 0.825 0.284 1.628 0.548 0.452 0.316 0.9 0.881 
+H 2 S E O 20
+ccmm ccmpm cm ebm ecmerrm eemm efm elelclllm elm em emflm emlm erbemlm fm fmldmbm lllm lm lmlm pfm pm 
+4.861 0.359 0.861 1.527 1.106 0.941 0.246 1.106 0.764 1.025 0.501 0.662 1.195 0.951 0.29 0.88 2.283 0.515 0.44 0.331 
+H 2 S E P 55
+bm cm cmdm cmemmm cmfm cmlm dbm dddrrpppm ddlm dedm dm dmfm dmfmcm ecmelffffm edemfm edlm edm edmmm eeeemmm eeemmmlm eeemrm eem eflm efm efmrlmflm elem elm elmfm elmlmlm em emcmemfm emcmfmlm emdmcm ememcmlm ememdcpfmlm emffm emfm emlfmfm emm empm eremlm fm fmfm lm lmlmlm lmlmlmlllm lmpm mfcdlm mfmfm mpm pcpcpmllm pem pm pmeembm rldddffldfmpm 
+1.365 0.923 0.764 0.781 0.91 2.468 0.598 0.941 4.3 0.952 0.243 0.262 0.969 1.106 2.345 0.456 0.577 0.388 0.515 0.572 1.106 0.781 0.29 1.527 1.106 0.449 0.941 0.951 0.91 0.764 1.106 0.923 2.345 0.331 0.541 0.941 1.106 0.331 0.417 4.332 1.025 0.419 4.3 0.862 0.419 0.764 1.368 0.243 1.527 0.515 3.112 0.287 0.246 0.263 0.21 
+H 2 S I O 7
+bm cm cmpm dm dmfmdlmcrdm lcm lfm 
+0.295 0.608 0.262 0.412 0.373 0.681 0.941 
+H 2 S I P 22
+bm cbm ccm cfm cfppm cm cmbm cmbmdm cmpccm cpmccfm dcppm dfmflfm dmlllm dmlmdfm dpmdmblm ffm flfm fm lm pm pmbmlm rcfmbm 
+0.662 0.624 2.745 0.359 0.832 0.337 1.146 0.21 2.805 0.43 4.116 1.172 0.412 0.337 0.44 0.417 1.712 1.04 0.355 0.544 0.29 0.295 
+H 2 U A O 5
+bm tcmcmpm tm trtfmlmlm vvpctfmrmlm 
+0.262 0.359 0.947 0.43 0.43 
+H 2 U A P 203
+bcmppm bdtmbm bllm blm bm ccbcmfmrlm cccm ccm ccmfmlm cddm cdmffm cdtmdm cfbdm cffm cflfm cfm cfmccfm cfmlmdrdm cllm cm cmblm cmbmcm cmccfmcmfm cmccmccmdfm cmcmflm cmctffmrm cmdmcmtffmtm cmdtdm cmffm cmfm cmfmlm cmm cmpcm cmrmflm cmtm crfm ctmfcm ctvtm dctlmblm dddttm ddfdflmfm ddptpdm ddtm ddtmlmcdcdm ddtpmctcm ddtrtdddm ddttpddm ddvvvvvvdm dfcm dlldmlm dm dmcmpmcmdmccm dmfm dmpmdm dmpmdmfdffm dmtm dmtmdm dmtptm dtcm dtcmftrbfm dtctmdmdm dtdddm dtdm dtdmfm dtdmppm dtm dtmvtdmlm dtvcvvdm dtvm dtvtctdccm dtvtm dtvtvddrlvm dtvtvtpm dtvvtmbm dtvvtmdmcm dvmcm dvtm fbm fcm fdfm ffm flblfrm flfm fm fmppptttttmfm frmpmlmm lcfm lm lmbmfm lmfddllllddm lmlm mbcm mdcmlm mlm mpmtm mptm mtflm mtm pcccmfcm pctcm pctmpm pddldlldm pdmtptdm pdpdrpm pfpmpm pm pmccm pmrcmlm ppcfm ppprm pptpmlplm ptrtmlm pvctcppm rm rmlm rmtm tbm tbmfm tbmlm tcldlbm tcm tcmbm tcmpfmccfm tcrctlm tctm tctmbm tctrm tdccdm tddmlm tdmdppdpm tdrm tfbm tfm tftfcccfm tlcm tlltvtm tltfcfm tm tmcm tmcmlm tmdlm tmdm tmffm tmfm tmlm tmpm tmrrm tmtm tmtmcffm tmtmvm tmvmlmbm tpbbctrdm tpm tptm trctmfmlm trm trmbm trmlm trtmcmdm trtmfm trtmlm trttm ttm ttrttvvmpvm tttm tttmmm ttttm ttttmlmlmlm tttttm tttttttmmmm ttttttttttttm tttvtrtmmmbm ttvvvttm tvfldm tvm tvtcmfm tvtdfm tvtlm tvtm tvtmdmbvm tvtmlm tvtrtcm tvtvm tvvcmcm tvvm tvvmvvvvvm tvvvvtm tvvvvvvvtvvvm vdddtvvm vm vmlm vmvccm vmvm vrm vtvm vtvvcmbm vvm vvmvtmlm vvtmfmlm vvvmpppm vvvvtvvvvvm vvvvvmvvvvvvm vvvvvvvvvvmlm 
+0.515 1.319 5.249 0.262 0.337 0.43 0.539 0.359 0.351 0.546 0.571 0.662 0.544 0.548 0.88 0.38 1.187 0.42 0.235 0.546 0.52 0.571 0.501 1.338 0.544 0.583 1.13 0.579 1.6 0.38 0.544 1.04 6.548 0.606 0.579 0.546 0.42 0.512 0.316 0.781 0.606 0.262 0.262 1.095 1.689 0.923 1.095 0.395 0.598 0.608 1.628 0.43 0.337 0.262 0.337 0.787 0.284 0.565 0.359 5.088 0.43 0.881 1.699 0.337 1.106 1.699 0.913 0.862 1.187 1.211 0.403 6.994 0.21 1.04 0.316 0.359 1.628 0.403 0.544 0.515 1.6 1.401 0.85 1.187 0.331 1.025 0.616 0.881 0.881 0.764 0.38 0.616 0.91 0.314 1.172 1.106 0.388 0.246 1.6 0.316 0.262 2.063 0.583 4.608 0.781 0.608 2.745 0.452 0.91 0.398 2.063 2.895 0.88 0.43 1.832 5.034 0.262 0.351 0.415 0.544 0.781 0.246 4.608 0.571 0.544 0.452 0.387 0.952 0.616 0.923 2.895 0.969 0.544 0.874 1.106 0.512 1.6 0.781 0.316 0.337 2.766 4.608 0.452 0.246 2.704 0.337 0.913 0.764 1.319 0.235 1.628 0.969 0.88 0.861 0.624 0.941 0.359 0.243 0.337 0.403 0.359 0.88 1.628 0.351 0.546 1.699 1.106 0.88 4.239 0.941 1.751 1.148 0.781 1.594 0.565 1.13 1.6 0.411 1.025 3.848 0.445 0.787 0.571 0.546 0.43 0.9 1.6 1.319 0.598 5.088 1.041 0.398 0.351 1.148 1.187 0.359 0.42 5.668 0.515 1.699 0.351 0.355 4.608 
+H 2 U E O 5
+ebm eeflm em embm lm 
+0.272 1.106 0.907 0.363 0.295 
+H 2 U E P 18
+clm cm cmemlm ddlm em emecmlm emfm emlm fcfm ffm lbm lfm lm lmdlmlm mccmcm mfm mfmlm pmpfm 
+0.91 0.791 0.941 2.766 1.025 0.91 1.025 0.52 0.52 0.388 0.764 0.243 1.353 2.233 5.034 0.41 0.243 0.387 
+H 2 U I O 5
+cmfmlm dfcfm dm dmdffm fcfm 
+0.757 0.681 0.412 0.262 0.615 
+H 2 U I P 14
+ccm cm cmpmfm dcdm dcdmbm ddlddm ddtrtmcmfldm dppdmcmlmdm fmcm lmlmfffrm lmlmrm pm pmcm ppmmm 
+0.419 0.452 0.43 0.355 0.192 0.749 0.235 0.501 1.095 2.704 1.942 0.316 0.351 0.565 
+H 3 O A O 5
+bcfdm cm tcm tm ttcmddm 
+0.787 1.448 1.106 0.88 0.88 
+H 3 O A P 14
+bm clpmdmtm cmbm dtm dttm lm tbm tm tmfm ttdmlm ttm tttm ttttm ttttttm 
+0.246 4.277 0.417 0.295 0.314 0.662 1.106 1.025 0.881 0.881 0.861 0.355 0.662 1.106 
+H 3 O E O 5
+cmepm edmdlclfm elecdddm emfm pmdm 
+0.316 0.284 0.515 0.262 0.58 
+H 3 O E P 5
+cccm em embm emfm mlm 
+0.364 0.881 0.287 0.21 0.861 
+H 3 O I O 5
+ccm cm dpcmfm fm rfmpm 
+1.448 0.246 0.952 0.388 1.507 
+H 3 O I P 9
+cccm cm ddm ddmdmdddcmdlm dm dmdm fm frm pmblm 
+0.764 1.507 2.895 1.448 0.764 0.314 1.448 1.266 1.025 
+H 3 P A O 5
+bcfm cm tm tmcfcm tpbm 
+1.303 0.246 1.025 0.941 0.263 
+H 3 P A P 22
+bm ccm cm cmtm dcmllmlm dtdddvddm dtttttdmvmvm ffmbm lm ptm rmfm tcm tcmddm tdm tftpvm tm tmcm tmcmrm tmlbm ttmm tttm vvvvvvvm 
+0.702 0.947 0.951 0.331 0.415 0.295 1.025 1.106 2.766 0.415 0.91 4.3 0.295 0.393 0.811 1.025 0.474 0.913 0.417 0.355 6.548 2.345 
+H 3 P E O 5
+bfm eemm embm fm llm 
+0.295 2.106 0.262 0.702 0.331 
+H 3 P E P 5
+dmpmpm edffm eemm emfm lmlmfmflm 
+0.398 0.501 0.515 0.572 0.764 
+H 3 P I O 5
+bbbm dcmllmlm fm pddmfm pm 
+1.258 0.415 1.025 0.501 1.025 
+H 3 P I P 10
+bm bmpm cm ddm dm dmbdmpm dmdpmdpm fm fmdddm tm 
+0.947 0.295 0.941 2.345 1.868 0.572 0.923 0.91 0.764 0.246 
+H 3 S A O 6
+bm ddddm pmcm tcdm tctmcm tm 
+0.872 0.262 0.329 0.287 0.41 0.91 
+H 3 S A P 184
+bbm bcbffmbm bftm bm bmppcmccm btdmtdmbm cbfm cbm cbrm cbtm cccm ccfm ccm ccmdmtvvtmvtm ccmtttm ccvvcrvvm cdm cffm cfmffm clmlffm cm cmblm cmccm cmdm cmdtrtmldm cmfm cmlfm cmlm cmlmcm cmtm cpcm cpmccmccmfm crcmfm ctcmtddtm ctddddm ctm ctmcm dcdm dcmfm dddmpmllm dddtpcdpm ddm ddmcmvmdmdm ddmlm ddpmbddmtmbm ddttmdm dfbmcmldcdm dfcm dfmddm dm dmdllm dmdmcmdcdmdm dmdtctdfpdm dmdtdmtm dmtmllbbm dtdcm dtdm dtdmdm dtfftfmbm dtm dttm dtttttdm dtvdddpm dvttttttm fbbbm fblcbbm fbm fcm fffbfffbm ffffftdldm ffm fm fmccm fmfm fmlm fmpcrbm fmpmrmm fmrm fmtm fmttm ldm lfm llllrddm llm llmlm lm lmdfmdm lmfm lmlm lmrm lrm ltvvlm mcccm mcmtm mdmtm mlm mtm pcfpm pcm pffcfm pm pmbm pmcmcmpmpm pmfm pmtm ppm ptm pvvmdccmlllm rm rtrtm tcm tcmfm tcmtrtm tctm tctttm tdm tdmdm tfm tfmpmpm tftfmlm tlmlm tm tmbcm tmbm tmcdmfm tmcfcm tmcfmbm tmcm tmdm tmdmfm tmdmfmfm tmfm tmlllm tmlm tmm tmpccm tmpm tmpmlm tmppcm tmppmflm tmptdmdmdmdm tmrm tmtddrm tmtm tmtmddddm tmtmfm tmtmlm tmtmmm tmtvm tpm tpmm trmppm trtvtm ttcm ttdcm ttm ttmm ttrtrpffm tttcm tttm tttmcm tttmffm tttmtfm tttttmmmm ttttttttttmcm tvmm tvtdtm tvtm tvtvtmdm tvvmtvtm tvvtm tvvtvtvvtdm tvvvm vbm vcttfm vdm vm vtm vtmdm vtmm vvm vvvctrrrffm vvvvvvm vvvvvvvvm 
+0.415 0.764 0.947 1.106 0.331 0.403 1.268 0.388 1.106 0.91 0.913 0.43 1.106 0.923 1.557 0.702 0.764 0.702 0.952 0.88 0.764 0.951 1.157 0.88 0.331 0.359 0.951 0.548 1.302 2.345 4.239 0.373 3.112 0.52 1.106 0.243 0.923 1.025 0.456 0.881 0.515 0.941 0.375 0.331 0.284 0.861 0.825 1.13 0.702 0.316 0.88 0.387 1.448 0.412 0.764 1.106 0.913 0.702 0.388 0.913 6.548 0.598 0.515 0.862 0.861 0.43 4.3 0.874 0.235 0.813 0.598 0.913 1.106 0.941 0.284 0.864 0.295 0.331 1.527 0.862 0.764 0.52 2.766 0.501 1.058 0.764 0.791 0.246 0.501 1.025 9.321 0.456 0.403 0.515 0.662 0.515 2.766 0.947 0.29 0.329 0.246 4.3 0.235 0.88 0.635 0.88 0.331 0.501 0.941 0.246 1.106 0.342 4.277 0.331 0.913 0.947 0.314 0.246 0.941 0.415 1.025 0.515 1.106 1.106 0.598 0.941 0.91 0.702 0.913 1.106 0.861 0.515 0.43 0.764 0.913 0.791 1.106 1.106 0.952 1.224 0.572 0.969 0.246 0.881 0.474 1.025 0.947 2.345 0.246 0.243 0.419 1.025 0.913 0.246 0.764 0.246 0.862 1.258 0.88 0.941 0.881 0.479 0.456 0.417 1.025 0.941 0.246 0.331 0.862 1.106 1.025 1.058 0.969 3.848 1.025 0.388 0.941 1.106 0.515 0.246 0.246 0.947 0.578 1.372 
+H 3 S E O 5
+ebm eemm emflm fm lm 
+1.527 0.941 0.501 0.951 2.283 
+H 3 S E P 5
+dmpmpm edffm eemm emfm lmlmfmflm 
+0.398 0.501 0.515 0.572 0.764 
+H 3 S I O 5
+bm ccbm cm cmcm lmfm 
+0.456 0.393 0.417 0.941 0.246 
+H 3 S I P 35
+bmfm cccm ccmpm cdm cfm cfmfm clm cm cmbbm cmllmfm cmmm dcdm ddcdmdmlm dddmdddmfrm ddm ddmcm dlm dm dmdmdmdm drdm ffm fm ldldlldm lfm lllmfm lm lmddfmpm mfrm pm pmcm pmcmlm ppm rlmm rm vvvm 
+4.3 0.941 0.764 2.766 1.224 0.941 0.91 0.764 0.388 0.572 0.941 0.295 0.764 0.702 1.413 1.025 0.941 4.174 0.331 1.557 0.91 0.91 0.501 5.034 0.764 0.764 0.764 0.388 1.527 0.331 0.284 1.106 0.329 1.448 0.361 
+H 3 U A O 6
+ccllm cllm cmbm dtm tctmcmfm tvtm 
+0.359 0.349 0.329 0.316 0.393 0.42 
+H 3 U A P 189
+bbcmbm bbm bccmlm bcm bcmbfm bcmbm bdtbdm bfbm blmpm bm bmvm brm brmfm bvmtdmbm cbbm cbm cccmfm ccm ccmfm ccmlm ccmppcmlm ccvm cffm clm cm cmbbm cmcmbm cmcmccmfbcmcm cmcmlm cmcmlmlm cmdm cmdmcm cmffmfm cmfmfmrm cmlfmdm cmlm cmlrm cmtmlm cmvm cplm cpmlccccmfm dcmtm dcttm dddtvtmdm ddfmcmtmvtm ddtddmpm dfm dlm dm dmcmdddmdm dmdmdmtm dmdtddm dmftm dmlcm dmpmpcm drm dtcdcmlm dtcdtcrm dtctm dtdm dtdmcm dtm dtmcm dtmcmcdm dtmpcm dtmtdm dtmtm dtrtmlm dttcmtdmdmrm dttm dttmddmdccm dtvrtmdrdm dtvtmfm dvrcdm dvtm fcm fm fmfmpm fmmllm fpfm ftm lcm ldrdm lfmcm llbm lllm llm llmcmlmlm lm lmccccm lmlbldm lmlfmbm lmlm mlbfm mmfdpm pcdmdmdm pcmcm pfcfm pm pmccmbm ppm ppmcm pppclm pptvtvptrm rm rmccmpcmrmfcm tbm tbtm tccfm tcdm tcfm tcm tcmdm tcmtmlm tcmvtvm tctm tctmppcm tctpm tdm tdmlm tlrtm tm tmcm tmcmfrm tmdmlm tmfm tmlm tmrm tmtm tmtmcmtm tmtmlm tmtvvtm tmvmpmpm tmvtfm tplrm tpm tpmlm tptm tpvvm trctm trrmlm trtcm trtm trtmfm trtpdmdm trtvlm trtvm ttm ttmm ttrttm tttmpptmlm tttmtmtm ttttm ttttttm ttttttttttm tttttttttttm tvdmdvtmfm tvlm tvm tvmtptmlm tvptvm tvrlm tvrm tvtcm tvtm tvtmtvtmdmdm tvtmtvtmfm tvtvtcm tvvbmppm tvvm tvvvtm tvvvvm tvvvvvvmfm vm vmcmbbm vmlm vmtm vmvmvmlm vtm vtvvvvvvmvvvm vvcmtm vvm vvrvvvm vvtttmm vvvccmccm vvvm vvvmvvvmbm vvvvm vvvvvvm 
+3.112 0.702 0.764 0.351 0.764 0.923 1.025 0.69 0.246 0.713 0.262 0.941 0.262 0.88 0.564 4.3 0.913 0.969 0.91 0.635 1.363 1.13 4.861 0.501 1.106 0.874 2.766 0.386 0.393 0.91 0.88 0.862 1.13 0.262 0.388 0.373 0.43 0.862 0.52 1.417 0.305 6.548 1.025 0.598 0.388 0.515 0.295 0.881 0.862 0.913 1.106 0.862 1.025 0.479 0.246 0.479 0.662 0.295 0.412 0.403 0.952 0.913 0.403 4.239 0.952 1.527 0.21 0.874 0.373 0.331 0.314 0.262 0.351 0.359 0.598 0.355 0.91 2.766 0.331 0.941 0.449 0.243 0.874 2.949 0.951 0.791 6.548 0.91 0.515 0.262 0.351 0.387 1.058 0.412 0.403 0.295 0.331 1.413 0.862 0.52 0.764 0.246 5.034 0.388 0.452 0.246 1.106 0.331 0.246 0.969 0.393 0.515 0.88 0.88 0.598 0.862 0.262 1.025 0.359 1.448 0.479 0.764 1.058 1.527 0.246 0.951 1.025 0.501 0.295 0.764 1.106 0.246 1.448 0.452 0.387 0.246 0.355 1.106 0.342 0.331 0.359 0.52 0.947 0.415 0.635 0.691 0.373 0.881 0.515 0.941 0.246 3.848 0.702 0.941 0.295 0.941 1.025 0.913 0.913 0.764 0.388 1.106 0.329 0.578 0.251 0.88 0.952 0.359 0.91 0.314 1.025 1.448 0.243 0.88 0.398 0.91 0.243 0.862 0.295 0.702 0.635 0.941 5.632 1.868 0.246 0.331 0.43 1.025 0.702 
+H 3 U E O 5
+ebm em embm erem lm 
+0.272 0.913 0.412 0.412 0.284 
+H 3 U E P 5
+cmcrm cmdm empcmcmmm flm mpm 
+0.501 0.359 0.811 0.388 0.243 
+H 3 U I O 5
+bbfmbm cpcm dmdm fm fmcmcmcmfm 
+0.361 0.412 0.923 0.388 0.295 
+H 3 U I P 25
+bcmfm bm bmlm ccm ccmcccm cm cmcm cmlm cpcm cpm dcpcdcmfmdm dmpmdmpfm dpmcmlm fldm fm fmfm llcpmlmllm llm llmddmlm pcmrm pm pmccmbm pmccpm tm tmtm 
+0.373 0.764 0.148 4.3 0.424 1.106 0.702 4.3 0.412 1.098 0.456 1.942 0.941 0.862 0.764 0.851 0.969 0.947 0.91 0.398 0.246 0.43 0.342 0.403 0.393 
+H 4 O A O 5
+bcfdm cm tcm tm ttcmddm 
+0.787 1.448 1.106 0.951 0.88 
+H 4 O A P 5
+cdcm cmlm ctcpm ppm tctm 
+0.764 0.393 5.668 0.501 0.466 
+H 4 O E O 5
+cmepm edmdlclfm elecdddm emfm pmdm 
+0.316 0.284 0.515 0.262 0.58 
+H 4 O E P 5
+cccm em embm emfm mlm 
+0.364 0.881 0.287 0.21 0.861 
+H 4 O I O 5
+bfm cm dm fm rm 
+0.263 0.293 1.861 0.331 0.263 
+H 4 O I P 21
+bcmlrm cm cmbbcm cmcm cmdm cmfm cmlm cmpmpm cmppm cmrmdm cpm dm fbm fm lm pcmm pcpm pfcm pfm pm rm 
+8.547 1.163 0.453 1.148 0.364 0.388 1.493 0.293 1.507 1.148 0.631 6.349 0.528 0.326 5.573 0.909 0.909 0.326 0.624 1.106 5.573 
+H 4 P A O 5
+bcfm pm tm tmcfcm tpbm 
+1.303 0.969 1.025 0.941 0.263 
+H 4 P A P 5
+ccctm cm fm tm vtcvrvbm 
+0.5 0.91 0.373 0.246 0.479 
+H 4 P E O 5
+bfm eemm embm fm llm 
+0.295 2.106 0.262 0.702 0.331 
+H 4 P E P 5
+dmpmpm edffm eemm emfm lmlmfmflm 
+0.398 0.501 0.515 0.572 0.764 
+H 4 P I O 5
+bcpm bm cm cmfm pmfmfm 
+0.293 0.343 1.372 0.527 1.507 
+H 4 P I P 31
+bbbbbbbm bm cbdm ccmpmbm cdcm cddm cdm cfm cm cmbm cmcmccmlfm cmddm cmdm cmlm cmpm cpffmfm dlm fcfm ffffm fm fmcm fmcmlm fmfm fmmm lm pbm pfrcm pm pmcmlm ppm ppmccpcm 
+0.293 1.057 0.534 1.469 1.163 0.572 0.764 1.469 1.469 1.493 1.057 0.246 1.363 0.501 0.969 0.909 1.201 1.396 0.947 1.106 0.534 1.507 0.45 1.347 0.572 1.148 1.224 1.469 2.766 1.106 1.238 
+H 4 S A O 5
+ccm fm lfm tmvm tpm 
+0.355 0.284 0.951 0.88 0.331 
+H 4 S A P 8
+bbm ccdm dmtmtmbdmfm drdm lmdm tm tmcmtm vmlfm 
+0.474 0.909 0.764 0.329 1.527 0.764 0.331 0.373 
+H 4 S E O 5
+ebm eemm emflm fm lm 
+1.527 0.941 0.501 0.951 2.283 
+H 4 S E P 5
+dmpmpm edffm eemm emfm lmlmfmflm 
+0.398 0.501 0.515 0.572 0.764 
+H 4 S I O 11
+bcccpm bfrfm bm cfmlm clm cm cmbcmbm cmcm fm lmcmcmbm ppm 
+1.469 0.309 8.547 0.364 0.352 1.507 0.263 0.195 0.263 0.263 0.295 
+H 4 S I P 95
+bbm bm bpmpcmbm brm cbm ccbdm cccm ccm ccmlmffm ccpbfm cdm cfm cfmbm cfmdmpm cfmm cldmdm clm cm cmbm cmcm cmcmfm cmddm cmdrdmblmpm cmfcm cmlm cmlmbm cmlmlm cmmm cmpmclmfm cpbm cplmllm cpm cpmpmcmpm crmpm dbdm dcfm dcm dcpmcmm ddcbm ddcm dddmdddm dddmmcmdmdmbm ddm dm dmbm dmcm dmcmdm dmcmlm dmddm dmdmcmdmdmdm dmdmpmbm dmdmpmrmlm dmfmfm dmpdmdmpdm dpddm fbcfm fcdmcdm fclm fcm fdm ffm fm fmbfm fmcm fmcmcmcm lcm llm lm lmlcmdm lmlmfmrm lmpm lpprblprm lrllm mmmfm pcdm pcm pcmlm pdm pm pmbm pmclm pmcm pmcmbm pmcmcm pmlm pmlmlmlmfm pmpccbm pmpm pmppbm ppbcm ppm pprrrrrrrlllm prfm rm rrdm 
+0.309 1.163 0.246 6.349 0.528 0.263 0.364 1.507 1.507 1.353 1.507 1.469 0.364 1.265 1.469 1.106 0.309 1.469 1.469 1.148 5.586 4.3 0.952 5.586 1.507 0.91 1.469 1.148 0.355 0.41 1.106 0.364 0.91 5.034 0.479 4.832 0.91 1.163 0.303 0.355 1.527 0.388 0.263 0.305 1.141 0.295 0.474 0.534 1.507 1.363 1.527 0.41 0.501 0.293 0.979 0.909 0.309 1.163 1.163 1.106 1.469 1.265 0.251 1.265 4.832 0.703 1.148 1.265 0.702 1.057 2.766 0.388 0.293 0.624 1.166 0.45 0.969 0.387 1.265 5.586 0.293 0.364 0.309 0.479 2.547 0.91 1.469 0.309 5.573 1.493 1.163 0.389 1.148 1.265 8.904 
+H 4 U A O 5
+cm fffm ptptrtptm tmbm tvtm 
+0.246 0.504 0.583 0.38 0.295 
+H 4 U A P 14
+ccccmcm clm cmlmcmllmlm fm fpm lm tm tmcm trpppm tvmlm tvtm tvvm vm vvm 
+1.448 0.343 0.969 0.951 0.572 1.025 0.941 0.309 0.303 0.331 0.952 0.979 0.295 0.293 
+H 4 U E O 5
+ebm em embm erem lm 
+0.272 0.913 0.412 0.412 0.284 
+H 4 U E P 5
+cmcrm cmdm empcmcmmm flm mpm 
+0.501 0.359 0.811 0.388 0.243 
+H 4 U I O 5
+bccm cmpmcmcm dm lbm pfmrm 
+0.293 0.41 0.327 0.309 0.364 
+H 4 U I P 72
+bbbbm bcmfm blm bm bmdrfdm cccccfmpm cccmbfm ccm ccmcmddm ccmfm ccmm ccrbdm cdm cffmfm cfm cfmbbfm cfmfmfm cm cmbm cmcm cmfm cmfmddmmm cmlcmbm cmlm cmpmfm cmrm cpmfm cppm crfbcrmlm dbdm dcmdm dfm dm dmdm dmlblm fbrfm fccm fcmpcm fcpmmm fm fmlmfm fpprpm frm lccm llccm lllrlmm lm lmlm lmmmmm lrm mcm mfmfmfmfm pcbm pcmcm pcmmm pcrmlm pdm pfddm pm pmcm pmlllrm pmmmm ppfm ppm ppmdm pppm pppppccmcmlfm prcpm rcm rfmpm rm tvtm 
+2.03 0.309 1.025 0.309 0.331 1.413 0.309 1.507 0.453 0.293 0.293 1.265 1.148 0.305 0.309 4.832 1.265 1.148 1.353 0.293 0.263 0.813 0.387 1.469 0.364 0.453 0.501 0.246 2.19 1.417 1.148 0.941 1.057 1.353 4.832 1.372 0.263 0.979 0.979 1.469 1.106 0.52 0.343 0.364 1.368 0.528 0.293 0.364 1.507 0.41 0.293 0.309 0.309 0.453 0.45 0.764 0.364 1.163 0.941 0.293 2.345 0.352 0.501 0.309 0.309 1.469 1.025 0.343 1.52 1.507 0.343 5.573 

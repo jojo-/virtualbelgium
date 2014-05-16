@@ -1,0 +1,93 @@
+# VirtualBelgium configuration file
+# =================================
+# 
+# This file has 3 sections :
+# ... Parameters      : parameters of the simulation
+# ... Data files      : path to the various input files required by VirtualBelgium
+# ... Model selection : turning on and off the available models of VirtualBelgium
+#
+# Author: J. Barthelemy and L. Hollaert
+# Date  : 30 sep 2013
+
+# Parameters
+# **********
+
+# General
+
+# ... start         : starting year of the simulation
+# ... end           : final year of the simulation
+# ... debug         : debugging parameter (y = activated, not activated otherwise)
+
+par.start = 2001
+par.end   = 2002
+par.debug = n
+
+# Activity-based model
+
+# ... act_home      : code identifying the 'return to home activity'
+
+par.act_home = m
+
+# Data files
+# **********
+
+# Socio-demographic data
+
+# ... ind                  : baseline synthetic population (individuals)
+# ... hh                   : baseline synthetic population (households)
+# ... age_dis_men          : men's age distribution by municipality
+# ... age_dis_women        : women's age distribution by municipality
+# ... mortality            : death probability by age and gender
+# ... birth                : giving birth to a boy or a girl probabilities by age of the the mother
+
+file.ind                   = ../data/pop/individuals
+file.hh                    = ../data/pop/households
+file.age_dis_men           = ../data/age/mun_age_men_2001.csv
+file.age_dis_women         = ../data/age/mun_age_women_2001.csv
+file.mortality             = ../data/mortality/deaths_proba_age_gender.csv
+file.birth                 = ../data/birth/birth_proba_age_sex.csv
+
+# Road network
+
+# ... network              : road network
+# ... node_ins             : road network's node associated with their municipality name
+# ... ins_id_code          : codebook municipality name / id / ins code / district name
+# ... indicators           : indicators by ins code, used for activity localization
+
+file.network               = ../data/network/belgium_medium_network.xml
+file.node_ins              = ../data/network/nodes_ins_medium.csv
+file.ins_id_code           = ../data/network/mun_ins.csv
+file.indicators            = ../data/activity/indicators.csv
+ 
+# Activity-chains data
+
+# ... act_cdb              : activities's code-book
+
+file.act_cdb               = ../data/activity/activity.cdb
+
+# ... Mixture of univariate normal distributions parameters
+#    ... act_distance      : log(distance) to perform an activity by activity type
+#    ... act_tdep_house    : log(house departure time) by activity type 
+
+file.act_distance          = ../data/activity/param_mixture_logn_distance.txt        
+file.act_tdep_house        = ../data/activity/param_mixture_logn_tdeparture.txt
+
+# ... Mixture of bivariate normal distributions parameters
+#    ... start_duration    : log(starting time) of an activity x log(duration) of the activity distributions' parameters
+#    ... dist_x_dur_trip   : log(distance of a trip) x log(duration of a trip) distribution parameter (mixture of normal components)
+
+file.act_start_duration    = ../data/activity/param_mixture_logn_start_duration.txt 
+file.act_dist_x_dur_trip   = ../data/activity/param_mixture_distance_duration_trip.txt
+
+# Models selection ( y = activated, not activated otherwise )
+# ****************
+
+# ... age      : agents are aging
+# ... death    : agents can die
+# ... birth    : reproduction model
+# ... activity : activity chains assignment and localization
+
+evo.age      = y
+evo.death    = y
+evo.birth    = y
+evo.activity = n

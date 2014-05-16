@@ -1,0 +1,19 @@
+Codebook households
+
+ID INS MUN TYPE N_CHILD N_ADULTS LIST_IND_ID
+
+ID : numerical id of the household
+
+
+
+ID INS MUN HHTYPE GENDER SPSTATUS DIP DRVLIC AGECL ACTCHAIN
+
+ID        : numerical id of the indivudual
+INS       : ins code of the individual's municipality
+HHTYPE    : household type - I(solated), C(couple), F(amily), N (mono-parental)
+GENDER    : gender - H (male), F (female)
+SPSSTATUS : socio-professional status : I(nactive), E (student), A(ctive)
+DIP       : education level - O (none), P(rimary school), S(econdary school), U (higher education)
+DRVLIC    : driving license ownership - O (no), P (yes) 
+AGECL     : age class - 0 to 4
+ACTCHAIN  : a sequence of activities
